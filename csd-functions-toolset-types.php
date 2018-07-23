@@ -2,7 +2,7 @@
 /*
 Plugin Name: CSD Functions - Toolset Types
 Version: 1.0
-Description: Toolset Types Customizations for CSD Schools Theme
+Description: Toolset Types Customizations for CSD Schools and District Theme
 Author: Josh Armentano
 Author URI: https://abidewebdesign.com
 Plugin URI: https://abidewebdesign.com
